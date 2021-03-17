@@ -1,0 +1,101 @@
+[ {
+  "id" : "b3d93652-2b06-46b4-b754-9e977d5ab050",
+  "title" : "1935 From the Famous \"Let's Dance\" Broadcasts",
+  "status" : "Official",
+  "language" : null,
+  "date" : "1998",
+  "format" : "CD",
+  "track_count" : 23,
+  "artist_credit" : null,
+  "type" : "Album"
+}, {
+  "id" : "25446054-125a-421a-8eb4-12501fc0d7da",
+  "title" : "Lets Lurk",
+  "status" : "Official",
+  "language" : null,
+  "date" : "2016-09-09",
+  "format" : "Digital Media",
+  "track_count" : 18,
+  "artist_credit" : null,
+  "type" : "Album"
+}, {
+  "id" : "64501b7d-21ab-44d1-9e51-fb856f1842d7",
+  "title" : "lets quit",
+  "status" : "Official",
+  "language" : null,
+  "date" : null,
+  "format" : "Digital Media",
+  "track_count" : 12,
+  "artist_credit" : null,
+  "type" : "Album"
+}, {
+  "id" : "26f869b0-e7f8-4b2f-b1f2-b3ec135d882d",
+  "title" : "\"Let's Eat\"",
+  "status" : "Official",
+  "language" : null,
+  "date" : "2002",
+  "format" : "CD",
+  "track_count" : 11,
+  "artist_credit" : null,
+  "type" : "Album"
+}, {
+  "id" : "bf9d160c-ad50-4185-b8c3-985bc166e90b",
+  "title" : "+Let's Disinfect!+",
+  "status" : "Official",
+  "language" : null,
+  "date" : "2013-08-17",
+  "format" : "Digital Media",
+  "track_count" : 10,
+  "artist_credit" : null,
+  "type" : "Album"
+}, {
+  "id" : "f12ba424-d8d6-4182-a3e1-f87c6c72ad48",
+  "title" : "\"Let's Rock\"",
+  "status" : "Official",
+  "language" : null,
+  "date" : "2019-06-28",
+  "format" : "Digital Media",
+  "track_count" : 12,
+  "artist_credit" : null,
+  "type" : "Album"
+}, {
+  "id" : "30e6d8e1-5a6f-4bb7-a137-60a6804c86c4",
+  "title" : "Dancemania -Let’s Party-",
+  "status" : "Official",
+  "language" : null,
+  "date" : "2015-11-11",
+  "format" : "Digital Media",
+  "track_count" : 18,
+  "artist_credit" : null,
+  "type" : "Album"
+}, {
+  "id" : "e3d61ecb-c56d-3b2a-9429-e3bead7a9f65",
+  "title" : "Lets Get Free",
+  "status" : "Official",
+  "language" : null,
+  "date" : "2000",
+  "format" : null,
+  "track_count" : 45,
+  "artist_credit" : null,
+  "type" : "Album"
+}, {
+  "id" : "2043daab-c200-4831-a0ba-4e27496e0a48",
+  "title" : "Lets Get Wild",
+  "status" : "Official",
+  "language" : null,
+  "date" : "2000",
+  "format" : "Digital Media",
+  "track_count" : 17,
+  "artist_credit" : null,
+  "type" : "Album"
+}, {
+  "id" : "0df39707-c42d-4c94-b54d-cafc54b290df",
+  "title" : "Lets Go Tesko",
+  "status" : "Official",
+  "language" : null,
+  "date" : "1993",
+  "format" : "CD",
+  "track_count" : 12,
+  "artist_credit" : null,
+  "type" : "Album"
+} ]
